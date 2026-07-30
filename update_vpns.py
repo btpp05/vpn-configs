@@ -40,6 +40,7 @@ ISP_KEYWORDS = [
     "optimum", "altice", "wahoo", "wideopenwest",
     "consolidated", "fairpoint", "hughes", "viasat",
     "frankfort plant board", "fewpb",
+    "ziply", "wholesail", "rcn", "race tech", "vyve", "eagle",
 ]
 
 
